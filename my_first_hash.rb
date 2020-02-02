@@ -18,13 +18,8 @@ end
 
 def adding
   shipping_manifest = {
-                  "whale bone corsets" => 5, 
-def adding
-                 }
-  
-
-
-shipping_manifest["muskets"]=2
+    "whale bone corsets" => 5, 
+    shipping_manifest["muskets"]=2
 
   
 
