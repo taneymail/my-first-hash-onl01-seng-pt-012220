@@ -17,7 +17,7 @@ end
 
 
 end
-@@ -21,9 +26,12 @@ def retrieval
+def retrieval
                  }
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
@@ -30,7 +30,7 @@ end
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
-@@ -32,12 +40,13 @@ def adding
+def adding
                  }
   # add 2 muskets to the shipping_manifest hash below
 
