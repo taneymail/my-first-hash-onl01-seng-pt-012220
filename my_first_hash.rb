@@ -11,4 +11,7 @@ the_manifest = {
 }
 end
 
+shipping_manifest["oil paintings"]
+end
+
 
