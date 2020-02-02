@@ -12,7 +12,7 @@ the_manifest = {
 end
 
 def retrieval
-  shipping_manifest["oil paintings"]
+  "oil paintings" => 3
 end
 
 
