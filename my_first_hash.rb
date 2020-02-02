@@ -11,9 +11,9 @@ the_manifest = {
 }
 end
 
-def retrieval
-                  "porcelain vases" => 2, 
-                  "oil paintings" => 3
+def retrieval = {
+    "porcelain vases" => 2, 
+    "oil paintings" => 3
                  }
 
 shipping_manifest["oil paintings"]
