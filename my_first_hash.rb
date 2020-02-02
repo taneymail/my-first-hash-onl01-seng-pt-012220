@@ -11,22 +11,4 @@ the_manifest = {
 }
 end
 
-def retrieval
-  "oil paintings" => 3
-end
 
-
-def adding
-  shipping_manifest = {
-    "whale bone corsets" => 5, 
-    shipping_manifest["muskets"]=2
-
-  
-
-shipping_manifest["gun powder"]=4
-
-
-  
-
-shipping_manifest
-end
